@@ -4,7 +4,8 @@
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
+* [💡 What we do](overview/what-we-do/README.md)
+  * [Spice](overview/what-we-do/spice.md)
 * [✨ Our Features](overview/our-features.md)
 
 ## Product Guides
